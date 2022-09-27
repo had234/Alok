@@ -1,0 +1,57 @@
+body {
+	margin: 0;
+	background-color: cornsilk;
+}
+
+header {
+	position: relative;
+	padding-left: 100px
+}
+
+nav {
+	position: absolute;
+	top: 0;
+	right: 100px;
+}
+
+.lists {
+	display: flex;
+	color: bisque;
+	list-style-type: none;
+	text-align: center;
+}
+
+.list {
+	color: black;
+	padding-right: 50px;
+	font-size: bold;
+	font-size: 20px;
+}
+
+.introduction{
+	padding-top: 100px; 
+	padding-left: 100px;
+}
+
+.introduction{
+	display: flex;
+}
+
+.chobies{
+	padding-left: 100px;
+	text-align: left;
+}
+
+.img{
+	width: 300px;
+}
+
+.text{
+	width: 100%;
+}
+
+.footer{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 20px;
+}
